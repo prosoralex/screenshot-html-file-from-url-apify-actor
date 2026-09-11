@@ -1,5 +1,7 @@
 # Screenshot & HTML file from Url — Apify Actor usage guide
 
+[![Run for free on Apify](https://img.shields.io/badge/Apify-Run%20it%20free%20%E2%80%94%20%245%2Fmo%20credit-24C1E0)](https://console.apify.com/sign-up?fpr=aupara)
+
 From 1$/1000 results. Capture website screenshots &/or full-page HTML in one run, from $1/1000 URLs. PNG, JPEG & PDF — full-page, custom viewport, lazy-load scroll, cookie-banner hiding, batch mode. HTML files open correctly in any browser. REST API ready. No watermark.
 
 > **This repository does not contain the Actor's source code.** The Actor
