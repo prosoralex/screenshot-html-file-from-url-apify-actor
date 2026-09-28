@@ -77,20 +77,20 @@ run_input = {
     }
   ],
   "format": "png",
-  "fullPage": true,
-  "saveHtml": false,
+  "fullPage": True,
+  "saveHtml": False,
   "viewportWidth": 1280,
   "viewportHeight": 720,
   "jpegQuality": 90,
   "waitUntil": "load",
   "delayBeforeScreenshotMs": 0,
-  "scrollToBottom": false,
+  "scrollToBottom": False,
   "delayAfterScrollMs": 1000,
   "navigationTimeoutSecs": 60,
   "maxRequestRetries": 1,
   "maxConcurrency": 1,
   "proxyConfiguration": {
-    "useApifyProxy": false
+    "useApifyProxy": False
   }
 }
 
